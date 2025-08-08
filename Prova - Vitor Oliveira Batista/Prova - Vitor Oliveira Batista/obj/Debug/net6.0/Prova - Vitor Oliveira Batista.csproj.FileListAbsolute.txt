@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\bin\Debug\net6.0\Prova - Vitor Oliveira Batista.exe
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\bin\Debug\net6.0\Prova - Vitor Oliveira Batista.deps.json
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\bin\Debug\net6.0\Prova - Vitor Oliveira Batista.runtimeconfig.json
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\bin\Debug\net6.0\Prova - Vitor Oliveira Batista.dll
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\bin\Debug\net6.0\Prova - Vitor Oliveira Batista.pdb
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.dll
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\refint\Prova - Vitor Oliveira Batista.dll
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.pdb
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\Prova - Vitor Oliveira Batista.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Prova - Vitor Oliveira Batista\Prova - Vitor Oliveira Batista\obj\Debug\net6.0\ref\Prova - Vitor Oliveira Batista.dll
